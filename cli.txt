@@ -1,0 +1,1 @@
+az resource update --ids "/subscriptions/70108fae-49f2-46f0-9e18-60ac15fd1b7d/resourcegroups/flexpy-rg/providers/Microsoft.Web/sites/gwuflexpy" --set properties.functionAppConfig.runtime.version="3.13"
